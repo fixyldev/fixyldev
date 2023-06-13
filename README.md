@@ -1,8 +1,8 @@
 # <img src="invisible_armor_model_pack.png" height="40"/> Invisible Armor Model
-<a href="https://github.com/DerJulHD/InvisibleArmorModel">![Invisible Armor Model Banner](invisible_armor_model_banner.png)</a>
+<a href="https://github.com/DerJulHD/InvisibleArmorModel#readme">![Invisible Armor Model Banner](invisible_armor_model_banner.png)</a>
 <br></br>
 # <img src="last_death_location_pack.png" height="40"/> Last Death Location
-<a href="https://github.com/DerJulHD/LastDeathLocation">![Last Death Location Banner](last_death_location_banner.png)</a>
+<a href="https://github.com/DerJulHD/LastDeathLocation#readme">![Last Death Location Banner](last_death_location_banner.png)</a>
 <!--
 **DerJulHD/DerJulHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
