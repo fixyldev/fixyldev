@@ -14,7 +14,7 @@
 ## Passively Maintained
 [![Passively Maintained](https://img.shields.io/badge/status-passively_maintained-yellowgreen?style=for-the-badge)](https://github.com/DerJulHD/DerJulHD/blob/main/STATUS.md#passively-maintained)
 
-- The project is feature complete
+- The project is currently feature complete
 - It is kept up to date
 - Issues will be resolved
 
