@@ -3,8 +3,8 @@
 ## Actively Developed
 [![Actively Developed](https://img.shields.io/badge/status-actively_developed-brightgreen?style=for-the-badge)](https://github.com/fixyldev/fixyldev/blob/main/STATUS.md#actively-developed)
 
-- The project is actively being worked on
-- New features are being added continuously
+- The project is being worked on
+- New features are being added
 - Issues will be resolved
 
 ```
